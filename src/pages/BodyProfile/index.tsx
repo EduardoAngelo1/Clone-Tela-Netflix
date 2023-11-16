@@ -27,7 +27,7 @@ export function BodyProfile() {
             name: <Text style={styles.textApp}>Idioma de exibição</Text>,
             icon1: <AntDesign style={styles.icon1App} name="right" size={30} color="#B3B3B3" />,
             descricao: <Text style={styles.desc2}>
-                Altere o idioma do texto que você vê na {'\n'}Netflix em todos os aparelhos
+                Altere o idioma do texto que você vê na Netflix em todos os aparelhos
             </Text>
         },
         {
